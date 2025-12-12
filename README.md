@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hi there 👋<br><br>🔭 I’m currently working at Sanshray It Solutions LLP as a Mobile App Consultant<br>💬 Ask me about Mobile/Web development related stuff<br>📫 How to reach me: LinkedIn - @harshmshah77<br>😄 Pronouns: He/His<br>⚡ Fun fact: If I am not coding then I am probably watching movie/web Series<br>
+Hi there 👋<br><br>🔭 I’m currently working at Sanshray It Solutions LLP as a Mobile App Consultant<br>💬 Ask me about Mobile/Web development related stuff<br>📫 How to reach me: LinkedIn - @harshmshah77<br>😄 Pronouns: He/His<br>⚡ Fun fact: If I am not coding then I am probably watching movie/web Series<br>
 
 
 ## 🌐 Socials:
