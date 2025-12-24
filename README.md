@@ -5,7 +5,7 @@ I design, build, and scale **production-ready mobile & web applications** using 
 My work focuses on **performance, clean architecture, and real-world usability**, not just UI demos.
 
 🔗 **Portfolio:** https://haffshah.github.io/portfolio/
-
+![](https://komarev.com/ghpvc/?username=Haffshah&abbreviated=true)
 ---
 
 ## 🚀 What I Do
@@ -45,7 +45,7 @@ I enjoy working on products where **engineering quality directly impacts user tr
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![](https://komarev.com/ghpvc/?username=Haffshah)
+
 ---
 
 ## 📂 Selected Work
