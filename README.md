@@ -5,6 +5,7 @@ I design, build, and scale **production-ready mobile & web applications** using 
 My work focuses on **performance, clean architecture, and real-world usability**, not just UI demos.
 
 🔗 **Portfolio:** https://haffshah.github.io/portfolio/
+
 ![](https://komarev.com/ghpvc/?username=Haffshah&abbreviated=true)
 ---
 
